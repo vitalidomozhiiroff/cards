@@ -1,4 +1,4 @@
-cards
+Cards
 =====
 Design a class (or classes) to represent playing cards
  ------------------------------------------------------
